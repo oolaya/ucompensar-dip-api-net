@@ -1,0 +1,17 @@
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\ServicesApplication.deps.json
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\ServicesApplication.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\ServicesApplication.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.AssemblyInfoInputs.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.AssemblyInfo.cs
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.csproj.CoreCompileInputs.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\refint\ServicesApplication.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ref\ServicesApplication.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\Domian.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\Domian.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.csproj.AssemblyReference.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\ServicesApplication\obj\Debug\net8.0\ServicesApplication.csproj.CopyComplete

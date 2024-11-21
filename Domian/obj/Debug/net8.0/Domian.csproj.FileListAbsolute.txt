@@ -1,0 +1,12 @@
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\bin\Debug\net8.0\Domian.deps.json
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\bin\Debug\net8.0\Domian.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\bin\Debug\net8.0\Domian.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.csproj.AssemblyReference.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.AssemblyInfoInputs.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.AssemblyInfo.cs
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.csproj.CoreCompileInputs.cache
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\refint\Domian.dll
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\Domian.pdb
+C:\Users\maikol.martinez\source\repos\PER\Diplomado.U.Compensar\Domian\obj\Debug\net8.0\ref\Domian.dll
